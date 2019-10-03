@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Colors</string>
+
+    <string name="activity_recycler">RecyclerView</string>
+    <string name="activity_listview">ListView</string>
 </resources>
